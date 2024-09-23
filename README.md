@@ -15,6 +15,9 @@ StreetStatistics processes video feeds in real time, detecting objects like peop
 - **Class distribution**: Ratio of humans vs. vehicles.
 - **Movement direction**: Tracks which direction objects are moving (e.g., Direction A vs. Direction B).
 
+## **Watch the short Video Guide!**
+[![Watch the video](https://img.youtube.com/vi/T-gs9RS-Qj7BE/maxresdefault.jpg)](https://youtu.be/gs9RS-Qj7BE)
+
 ## **How to Install**
 
 ### **Prerequisites**
