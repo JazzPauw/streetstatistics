@@ -66,3 +66,8 @@ StreetStatistics takes many external variables to work in realtime, if even one 
 These inaccuracies can cause behaviour such as targets not being counted or timeskips of a few seconds. When these things do occur, StreetStatistics tries to work through a backlog and/or try to see if it can fill in the gaps in data. Nonetheless it can occur that some targets are not counted. 
 
 One last thing to keep in mind is the angle of your camera. If your camera is angled in a way that one target can completely cover another for an extended period of time, it can occur that the target is forgotten.  
+
+### **GUI-less version:**
+StreetStatistics has dockerized versions of the components available, this does not have the GUI interface.
+https://github.com/JazzPauw/streetstatistics-noGUI
+
